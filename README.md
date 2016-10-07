@@ -1,5 +1,5 @@
 # oose_0324037
-this project is used at class
+this project is only used in class
 
 Student Description
 
