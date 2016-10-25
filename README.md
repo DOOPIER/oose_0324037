@@ -30,7 +30,7 @@
 
 使用介面：
 
-![something](http://imgur.com/cbpTXSG")
+![](http://imgur.com/cbpTXSG")
 
 流程圖：
 
