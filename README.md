@@ -30,9 +30,9 @@
 
 使用介面：
 
-![圖形介面](http://imgur.com/cbpTXSG)
+![](http://imgur.com/cbpTXSG)
 
 流程圖：
 
-![流程圖](http://imgur.com/IgNckvy)
+![](http://imgur.com/IgNckvy)
 
