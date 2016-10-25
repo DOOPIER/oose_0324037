@@ -20,8 +20,8 @@
 
 使用介面：
 
-https://github.com/DOOPIER/oose_0324037/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A2.jpg
+
 
 流程圖：
 
-https://github.com/DOOPIER/oose_0324037/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg
+
