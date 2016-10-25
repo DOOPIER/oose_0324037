@@ -30,8 +30,8 @@
 
 使用介面：
 
-![](http://imgur.com/cbpTXSG")
+![圖形介面](http://imgur.com/cbpTXSG")
 
 流程圖：
 
-https://github.com/DOOPIER/oose_0324037/blob/master/%E6%B5%81%E7%A8%8B%E5%9C%96.jpg
+
