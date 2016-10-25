@@ -1,12 +1,11 @@
 # oose_0324037
-this project is only used in class
 
-Student Description
 
+組長
 資管3A 0324037 杜品翰
-
-Team Member
-
+組員
 資管3B 0324012 吳政穎
 資管3A 0324013 薛傳穎
 資管3B 0324040 林宏恩
+
+
