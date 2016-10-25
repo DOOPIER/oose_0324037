@@ -30,7 +30,7 @@
 
 使用介面：
 
-![圖形介面](http://imgur.com/cbpTXSG")
+![圖形介面](http://imgur.com/cbpTXSG)
 
 流程圖：
 
