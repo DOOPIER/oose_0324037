@@ -39,7 +39,39 @@
 
 ![](http://i.imgur.com/cbpTXSG.jpg)
 
+
+
 流程圖：
 
 ![](http://i.imgur.com/IgNckvy.jpg)
+
+
+
+使用個案圖：
+
+![](http://i.imgur.com/qrw5vVd.jpg)
+
+
+
+強韌分析圖：
+
+客戶登入
+
+![](http://i.imgur.com/At5FLVb.jpg)
+
+查詢
+
+![](http://i.imgur.com/6Iyb87c.jpg)
+
+新增
+
+![](http://i.imgur.com/QYDNRl8.jpg)
+
+修改
+
+![](http://i.imgur.com/RXFf1NW.jpg)
+
+刪除
+
+![](http://i.imgur.com/2ng1aWN.jpg)
 
