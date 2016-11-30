@@ -75,3 +75,8 @@
 
 ![](http://i.imgur.com/2ng1aWN.jpg)
 
+
+
+強韌圖
+
+![](http://i.imgur.com/bxEZ9lt.jpg)
